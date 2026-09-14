@@ -5,6 +5,10 @@ our goal is to predict how dangerous different spots on campus are
 <img width="718" height="634" alt="image" src="https://github.com/user-attachments/assets/7614612a-0d2e-4a75-9a5a-57232bcffc27" />
 
 
+
+
+
+
 **Week 1: Linear Regression**
 
 This week we will be using linear regression to predict the crime score of an spot. All the data you will need is going to be in crime_training_dataset.csv
