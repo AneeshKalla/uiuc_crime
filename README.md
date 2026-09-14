@@ -16,6 +16,8 @@ Using the training part of the dataset, try to use the features (dist from green
 evaluate your model on the testing set to see how well your model performed.
 
 hints:
+
 Feel free to copy syntax from other notebooks
+
 Try plotting the data to see the pattern, it might be different than y = mx+b
 
